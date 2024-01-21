@@ -51,8 +51,8 @@ inquirer
                 break;
         }
 
-        fs.writeFile('SVGImage.svg', genSVGImg, (err) =>
-        err ? console.log(err) : console.log('Successfully created SVGImage.svg!'))
+        fs.writeFile('logo.svg', genSVGImg, (err) =>
+        err ? console.log(err) : console.log('Generated logo.svg!'))
     });
 
 

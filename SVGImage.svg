@@ -1,6 +1,6 @@
 <svg version="1.1" viewBox = "0 0 100 100" xmlns="http://www.w3.org/2000/svg">
             <g>
-                <circle cx="25" cy="25" r="25" fill="Blue"/>
-                <text x="7" y="31" font-family="Verdana" font-size="20" fill="Red">img</text>
+                <polygon points= "5,45 45,45 25,5" fill="Green"/>
+                <text x="16" y="35" font-family="Verdana" font-size="10" fill="Red">ABC</text>
             </g>
         </svg>
